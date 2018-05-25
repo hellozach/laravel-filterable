@@ -3,7 +3,7 @@
 ##1. Require the package
 
 ```
-composer require urbananalog/nwmls
+composer require hellozach/laravel-filterable
 ```
 
 ##2. Use the Filterable trait
