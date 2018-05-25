@@ -1,0 +1,19 @@
+{
+    "name": "hellozach/laravel-filterable",
+    "description": "Filterable trait for Models in Laravel",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Zach Johnson",
+            "email": "hello@zachjohnson.name"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "autoload": {
+            "psr-4": {
+                "HelloZach\\LaravelFilterable\\": "src/"
+            }
+        }
+    }
+}
