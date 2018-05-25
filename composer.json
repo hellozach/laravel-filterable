@@ -10,10 +10,8 @@
     ],
     "require": {},
     "autoload": {
-        "autoload": {
-            "psr-4": {
-                "HelloZach\\LaravelFilterable\\": "src/"
-            }
+        "psr-4": {
+            "HelloZach\\LaravelFilterable\\": "src/"
         }
     }
 }
